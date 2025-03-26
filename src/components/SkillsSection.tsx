@@ -46,13 +46,13 @@ const SkillsSection = ({
     },
     {
       name: "Illustrator",
-      proficiency: 50,
+      proficiency: 90,
       icon: <PenTool className="w-5 h-5 text-white" />,
       color: "bg-orange-500",
     },
     {
       name: "Lightroom",
-      proficiency: 45,
+      proficiency: 85,
       icon: <Brush className="w-5 h-5 text-white" />,
       color: "bg-blue-400",
     },
@@ -64,7 +64,7 @@ const SkillsSection = ({
     },
     {
       name: "Premiere Pro",
-      proficiency: 75,
+      proficiency: 85,
       icon: <Film className="w-5 h-5 text- " />,
       color: "bg-blue-600",
     },
